@@ -1,0 +1,13 @@
+name: lucky_supervisor
+version: 0.1.0
+
+authors:
+  - Kevin Sjöberg <mail@kevinsjoberg.com>
+
+targets:
+  lucky_supervisor:
+    main: src/lucky_supervisor.cr
+
+crystal: 1.1.0
+
+license: MIT
